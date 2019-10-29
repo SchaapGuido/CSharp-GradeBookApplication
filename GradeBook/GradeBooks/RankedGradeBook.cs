@@ -55,7 +55,7 @@ namespace GradeBook.GradeBooks
             }
             else
             {
-                base.CalculateStudentStatistics(string name);
+                base.CalculateStudentStatistics(name);
             }
         }
     }
